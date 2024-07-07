@@ -1,0 +1,9 @@
+{
+	"name": "fordp203factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e104a257-a1e4-422a-b64e-fa473029869c",
+		"tenantId": "3b1147b3-1d23-4cc5-8610-7adf873e06c4"
+	}
+}

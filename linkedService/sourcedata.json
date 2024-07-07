@@ -1,0 +1,17 @@
+{
+	"name": "sourcedata",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "sourceserverdp203.database.windows.net",
+			"database": "SourceDataforDP203",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "rajkumarmanala",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDVCODY4M0IxLURBMTctNDVDMC05QTc1LTdENzJGODc5MUMzN18wZjdmMGRjNi03Zjc2LTRhOTAtOTIzZC0yOWNmODgzZGEyNGEiDQp9"
+		}
+	}
+}
